@@ -1,0 +1,14 @@
+SPACE INVADERS
+
+Controls:
+MOVE LEFT = A or left Arrow key
+Move Right = D or right Arrow key
+Fire = space
+
+IF ANY ENEMY CROSSES RED LINE, GAME FINISHES 
+
+DOWNLOAD ALL FILES IN ONE FOLDER AND RUN 'FirstGame.py' in any Editor that must have extension pygame
+
+ORIGNALLY MADE ON MU Editor
+
+ENJOY :)
